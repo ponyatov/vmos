@@ -1,0 +1,5 @@
+<map id="IO" name="IO">
+<area shape="rect" id="node1" href="$group__file.html" title="File" alt="" coords="191,5,233,32"/>
+<area shape="rect" id="node2" href="$group__net.html" title="Net" alt="" coords="191,56,233,83"/>
+<area shape="rect" id="node4" href="$group__core.html" title="Core" alt="" coords="5,31,56,57"/>
+</map>

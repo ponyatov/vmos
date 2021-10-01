@@ -1,0 +1,7 @@
+<map id="Core" name="Core">
+<area shape="rect" id="node1" href="$group__container.html" title="Container" alt="" coords="104,5,183,32"/>
+<area shape="rect" id="node2" href="$group__meta.html" title="Meta" alt="" coords="118,56,169,83"/>
+<area shape="rect" id="node3" href="$group__active.html" title="Active" alt="" coords="114,107,173,133"/>
+<area shape="rect" id="node4" href="$group__primitive.html" title="Primitive" alt="" coords="107,157,180,184"/>
+<area shape="rect" id="node5" href="$group__io.html" title="IO" alt="" coords="124,208,163,235"/>
+</map>
